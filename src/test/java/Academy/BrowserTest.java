@@ -25,7 +25,7 @@ public class BrowserTest {
 		Assert.assertTrue(text.equalsIgnoreCase("RahulShettyAcademy.com Learning"));
 		driver.close();
 	
-		
+		//tests updated
 		
 	}
 }
